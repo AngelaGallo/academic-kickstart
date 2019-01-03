@@ -65,12 +65,12 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "angela.gallo.1@city.ac.uk"
   address = "Department of Finance, 106 Bunhill Row, London EC1Y 8TZ  = """
- # Monday 10:00 to 13:00<br>
-  # Wednesday 09:00 to 10:00<br>
-  # Otherwise email to book an appointment
+  Monday 10:00 to 13:00<br>
+  Wednesday 09:00 to 10:00<br>
+  Otherwise email to book an appointment
   """
-  # phone = "888 888 88 88"
-  # skype = "echo123"
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
