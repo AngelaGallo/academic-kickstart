@@ -65,8 +65,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "angela.gallo.1@city.ac.uk"
   address = "Department of Finance, 106 Bunhill Row, London EC1Y 8TZ  = "
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -102,7 +102,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "1950s"
+  color_theme = "default"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -263,12 +263,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+    link = "https://twitter.com/DrAngelaGallo"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.it/citations?user=4n7JMGYAAAAJ&hl=it"
 
   [[params.social]]
     icon = "github"
