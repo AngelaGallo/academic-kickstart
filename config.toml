@@ -308,12 +308,12 @@ enableGitInfo = false
 [[menu.main]]
   name = "Shadow Banking Project"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Talks&Media"
-  url = "/tutorial/"
-  weight = 4
+  url = "#tutorial"
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
