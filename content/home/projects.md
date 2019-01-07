@@ -1,7 +1,7 @@
 +++
 # Project title.
 title = "Shadow Banking Project"
-wieght= 65
+weight = 60
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
