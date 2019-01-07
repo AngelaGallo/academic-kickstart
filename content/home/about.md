@@ -21,7 +21,7 @@ weight = 5
   
 
 [[education.courses]]
-  course = "MSc Finance @ VU UNiversity of Amsterdam"
+  course = "MSc Finance @ VU University of Amsterdam"
 
   
   [[education.courses]]
@@ -33,6 +33,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Angela Gallo is Lecturer in Finance At Cass Business School, City University of London. She joined Cass in 2016 as a Marie Skłodowska Curie Fellow at the Centre for Banking Research. The winning project was on Shadow Banking. She also holds a position at University of Salerno. Angela’s research interests are in the areas of banking, structured finance and corporate governance. She is a member of the Centre for Banking Reserach and have teaching experience at undergraduate, postgraduate and executive level for banks and financial advisors.
