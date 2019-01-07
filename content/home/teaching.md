@@ -11,7 +11,7 @@ title = "Shadow Banking Project"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 25
 
 +++
 
