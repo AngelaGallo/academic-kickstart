@@ -33,4 +33,4 @@ weight = 5
 
 # Biography
 
-Angela Gallo is Lecturer in Finance at Cass Business School, City University of London. She joined Cass in 2016 as a Marie Skłodowska Curie Fellow. The winning project was on Shadow Banking. Angela’s research interests are in the areas of banking, structured finance and corporate governance. She is currently a member of the Centre for Banking Research and have teaching experience at undergraduate, postgraduate and executive level for banks and financial advisors. She also holds a position at University of Salerno.
+Angela Gallo is Lecturer in Finance at Cass Business School, City University of London. She joined Cass in 2016 as a Marie Skłodowska Curie Fellow. The winning project was on Shadow Banking. Angela’s research interests are in the areas of banking, structured finance and corporate governance. She is currently a member of the Centre for Banking Research and has teaching experience at undergraduate, postgraduate and executive level for banks and financial advisors. She also holds a position at University of Salerno.
