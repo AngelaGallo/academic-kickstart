@@ -21,7 +21,7 @@ weight = 5
   
 
 [[education.courses]]
-  course = "MSc Finance @ VU University of Amsterdam"
+  course = "MSc in Finance @ VU University of Amsterdam"
 
   
   [[education.courses]]
